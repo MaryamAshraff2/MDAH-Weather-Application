@@ -46,7 +46,11 @@ The MDAH Weather App is released under the MIT License. See LICENSE.txt for deta
 
 ## Acknowledgments
 ------------------
+We'd like to Thank:
 
+  * OpenWeatherMap for providing the weather data API
+  * Tkinter for providing the GUI library
+    
 We'd like to thank the following contributors for their work on this project:
 
 * Maryam Ashraff
